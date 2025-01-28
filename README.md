@@ -5,6 +5,8 @@ An Obsidian-based Heads Up Display meant to track progress on habits, schedule a
 
 (These instructions are also on pages in the vault)
 
+(**tip:** If you want a bit more screen space, hit ctrl-P, type 'hider' and hit enter for 'toggle the tab bar')
+
 Click the last daily note on the left hand side, and then the Daily note button on the top left: (graphic) This will generate a new habit completion list for the day.
 
 Hit ctrl-shift R: this will reset the vault and make sure the habit tracker table is up to date
@@ -16,10 +18,6 @@ On the 'today todo' and 'Current Projects' windows, simply type a list of goals 
 The Habit Tracker and Levels panes should update as you update your habits. (Or even just working in the vault, this is normal)
 
 The [[today todo]], [[Waiting For]], and [[Current Projects]] pages don't affect the habit tracker or tables, they are simple text reminders!
-
-**tip**
-
-If you want a bit more screen space, hit ctrl-P, type 'hider' and hit enter for 'toggle the tab bar'
 
 Special thanks to sailKiteV from the Obsidian Discord for the dataviewjs assist with these charts!
 
