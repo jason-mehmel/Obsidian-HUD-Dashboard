@@ -57,7 +57,8 @@ WARNING: if you don't start this process on the Levels page, it will change the 
 
 
 
-Calendar:
+## **Calendar:**
+
 This plugin integrates with your google account to show your calendar.
 
 Using this plugin can be somewhat involved, so I'll link to their setup instructions: https://yukigasai.github.io/obsidian-google-calendar/Setup (The first step of installing the Obsidian plugin should already be done in this vault.)
